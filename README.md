@@ -27,6 +27,7 @@ src="https://img.shields.io/github/followers/Jamezfn?logo=github&style=for-the-b
 # 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/your-profile)
 * [Twitter](https://twitter.com/your-twitter)
+* **WhatsApp**: [Chat with me!](https://wa.me/254791299279)
 * **Email**: [jamesmakachia19@gmail.com](mailto:jamesmakachia19@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
