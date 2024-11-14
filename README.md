@@ -1,65 +1,50 @@
-<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="GIF of me coding" align="right">
+<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="animated GIF" align="right" width="200">
 
-<h1>   ℌ𝔦👋, ℑ'𝔪 𝕁𝕒𝕞𝕖𝕫   </h1>
-<h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 & 𝔼𝕝𝕖𝕔𝕥𝕣𝕚𝕔𝕒𝕝 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 𝕗𝕣𝕠𝕞 𝕂𝕖𝕟𝕪𝕒</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jamez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+Welcome+to+My+GitHub+Profile;My+Name+Is+Mukhola+James+(Jamez);Electrical+and+Software+Engineer;Learning+Through+Projects)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<h1 align="center">
+Hi, I'm Jamez. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
 
-- 🌱 Currently deep-diving into **MySQL, Redis, TypeScript, and Python async**
-- 💬 Let’s chat about **Software & Electrical Engineering, Backend Systems, and Power Factor Correction**
-- 📫 Reach out at **jamesmakachia19@gmail.com**
-- 📄 Explore my journey and work [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- ⚡ Fun fact: **I run on caffeine and code snippets!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40" />
-  </a>
-  <a href="https://discord.com/users/yourid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="40" />
-  </a>
-</p>
+### I’m a BSc Electrical and Electronics Engineering student at Murang'a University of Technology and a Software Engineering student at ALX. `I learn by doing....`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=Jamezfn&style=for-the-badge&color=blue&labelColor=000000) <a href="https://github.com/Jamezfn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Jamezfn?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a> <a href="https://wa.me/254791299279" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamez&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamez&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+- #### 🔌 **Current Project:** EEG-based Emotion Recognition using LSTM and GRU
+- #### 💻 **Skills:** Python, JavaScript, TypeScript, SQL, Node.js, Express, Flask, Docker, MySQL, Redis, Ubuntu, SQLite
+- #### 👯 **Open to Collaborate on:** Engineering or software projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/your-profile)
+* [Twitter](https://twitter.com/your-twitter)
+* [Email](mailto:jamesmakachia19@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamezfn&layout=compact&theme=radical)](https://github.com/Jamezfn/github-readme-stats)
+
+## QUESTION AND ANSWER WEBSITES 
+* [Stackoverflow](https://stackoverflow.com/)
+* [GitHub](https://github.com/)
+* [Quora](https://quora.com/)
+* [Reddit](https://reddit.com/)
+* [Stack Exchange](https://stackexchange.com/)
+* [Code Project](https://codeproject.com/)
+* [Programmers Heaven](https://programmersheaven.com/)
+
+![Jamez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamezfn&show_icons=true&theme=radical)
+
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/username"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br><br><br><br>
+
+![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
