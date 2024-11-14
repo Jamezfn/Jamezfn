@@ -19,7 +19,7 @@ I'm on a journey of blending power and tech – working on everything from power
 ### 🚀 What I'm working on now:
 - An EEG-based emotion recognition project using LSTM and GRU
 - Building and containerizing database projects with MySQL
-- Session authentication
+- Session authentication with Rest API
 - Final year project in power factor correction
 
 ### 📫 Get in Touch
