@@ -12,7 +12,7 @@ I'm on a journey of blending power and tech – working on everything from power
 
 ### 🔧 Skills & Tools
 - **Languages**: Python, JavaScript, TypeScript, SQL
-- **Frameworks**: Node.js, Express, Flask
+- **Frameworks**: Node.js, Flask
 - **Database**: MySQL, PostgreSQL, SQLite, Redis
 - **Other Tools**: Git, Docker, Ubuntu
 
