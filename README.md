@@ -26,7 +26,7 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/your-profile)
-* [Twitter](https://twitter.com/your-twitter)
+* [Twitter](https://twitter.com/JamezMcchia)
 * [Email](mailto:jamesmakachia19@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
